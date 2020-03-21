@@ -1,7 +1,7 @@
 # Applicatin Todo List
 
 Lien pour acceder au wiki sur gitHub:
-* [Projet 8](https://github.com/ChloeTrk/Todo-list-app)
+* [Projet 8](https://github.com/ChloeTrk/Todo-list-app/wiki)
 
 ## Installation
 
