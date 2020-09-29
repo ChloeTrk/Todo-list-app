@@ -19,12 +19,12 @@
 
 ## Installation
 
-    Installer les dependences depuis le fichier package.json: 
+    Installez les dépendences depuis le fichier package.json avec npm install 
     - jasmine
     - todomvc-app-css
     - todomvc-common
 
 ## Fabriqué avec
 
-* [Visual Studio Code](https://code.visualstudio.com/) - Editeur de textes
+* [Visual Studio Code](https://code.visualstudio.com/) - Editeur de texte
 
