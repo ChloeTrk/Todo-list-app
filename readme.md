@@ -1,11 +1,25 @@
-# Application Todo List
+# Todo List - [school project]
 
-Lien pour acceder au wiki sur gitHub:
-* [Projet 8](https://github.com/ChloeTrk/Todo-list-app/wiki)
+## Introduction
+
+### Consigne: Reprendre et améliorer un projet existant.
+- Modifier le code javascript pour le rendre plus moderne.
+- Rectifier les bug et fautes de frappes.
+- Ajouter les tests unitaires nécéssaires.
+- Utiliser les DevTools de Chrome et réaliser un audit de performance.
+- Créer une documentation du projet et renseigner des solution à l'amélioration des performances.
+
+### Lien pour acceder à la documentation :
+* [Todo wiki](https://github.com/ChloeTrk/Todo-list-app/wiki)
+
+## Outils utilisées
+- Javascript, ES6 +
+- Jasmine
+- Chrome Devtools 
 
 ## Installation
 
-    Installer les dependencies depuis le fichier package.json: 
+    Installer les dependences depuis le fichier package.json: 
     - jasmine
     - todomvc-app-css
     - todomvc-common
@@ -13,10 +27,4 @@ Lien pour acceder au wiki sur gitHub:
 ## Fabriqué avec
 
 * [Visual Studio Code](https://code.visualstudio.com/) - Editeur de textes
-
-Plugin utilisés: Live Server
-
-## Auteur
-
-Chloé Turchi
 
