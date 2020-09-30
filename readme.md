@@ -2,29 +2,29 @@
 
 ## Introduction
 
-### Consigne: Reprendre et améliorer un projet existant.
-- Modifier le code javascript pour le rendre plus moderne.
-- Rectifier les bug et fautes de frappes.
-- Ajouter les tests unitaires nécéssaires.
-- Utiliser les DevTools de Chrome et réaliser un audit de performance.
-- Créer une documentation du projet et renseigner des solution à l'amélioration des performances.
+### Instructions: Take over and improve an existing project.
+- Modify the javascript code to make it more modern.
+- Correct bugs and typos.
+- Add the necessary unit tests.
+- Use Chrome DevTools and perform a performance audit.
+- Create project documentation and provide solutions to improve performance.
 
-### Lien pour acceder à la documentation :
+### Link to access the documentation :
 * [Todo wiki](https://github.com/ChloeTrk/Todo-list-app/wiki)
 
-## Outils utilisées
-- Javascript, ES6 +
-- Jasmine
-- Chrome Devtools 
+## Tools
+- javascript, ES6 +
+- jasmine
+- chrome devtools 
 
 ## Installation
 
-    Installez les dépendences depuis le fichier package.json avec npm install 
+    Install the dependencies from the package.json file with npm install
     - jasmine
     - todomvc-app-css
     - todomvc-common
 
-## Fabriqué avec
+## Build with
 
-* [Visual Studio Code](https://code.visualstudio.com/) - Editeur de texte
+* [Visual Studio Code](https://code.visualstudio.com/) - text editor
 
